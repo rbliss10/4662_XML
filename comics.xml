@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE comics [
+<!ELEMENT comic (character_name, commissioned_by, date, image_url)>
+<!ELEMENT character_name (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]
+
+<comics>
+  <comic>
+    <character_name>Wolverine</character_name>
+    <commissioned_by>Self</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/128/096/large/mike-medicine-horse-wolverine-cover.jpg?1480604356</image_url>
+  </comic>
+  
+    <comic>
+    <character_name>Spawn</character_name>
+    <commissioned_by>Self</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/128/013/large/mike-medicine-horse-spawn-final.jpg?1480603525</image_url>
+  </comic>

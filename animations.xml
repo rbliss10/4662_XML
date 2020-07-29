@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE animations [
+<!ELEMENT animation (animation_name, character_name, commissioned_by, date, image_url)>
+<!ELEMENT animation_name (#PCDATA)>
+<!ELEMENT character_name (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]
+
+<animations>
+  <animation>
+    <animation_name>Attack on Titan</animation_name>
+    <character_name>Mikasa</character_name>
+    <commissioned_by>Sherry</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/872/large/mike-medicine-horse-hood-final-color.jpg?1480602349</image_url>
+  </animation>
+
+  <animation>
+    <animation_name>Attack on Titan</animation_name>
+    <character_name>Various</character_name>
+    <commissioned_by>Sherry</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/127/869/large/mike-medicine-horse-side-final-color.jpg?1480602342</image_url>
+  </animation>
+
+  <animation>
+    <animation_name>Imaginism Workshop</animation_name>
+    <character_name>Pirate Girl</character_name>
+    <commissioned_by>Self</commissioned_by>
+    <date>2015</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/128/054/large/mike-medicine-horse-mmh-pirategirl.jpg?1480603912</image_url>
+  </animation>
+

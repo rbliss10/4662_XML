@@ -1,0 +1,8 @@
+<!DOCTYPE AR VR [
+<!ELEMENT AR_VR (project_name, work_done, commissioned_by, date, image_url)>
+<!ELEMENT project_name (#PCDATA)>
+<!ELEMENT work_done (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE fighting games [
+<!ELEMENT game (game_name, character_name, commissioned_by, date, image_url)>
+<!ELEMENT game_name (#PCDATA)>
+<!ELEMENT character_name (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]
+
+<fighting games>
+  <game>
+    <game_name>Street Fighter</game_name>
+    <character_name>Necalli Capcom Cup Final</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2017</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/127/923/large/mike-medicine-horse-cpt-necalli-color-final-blk.jpg?1480602687</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter</game_name>
+    <character_name>Necalli Capcom Cup Stage 1</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2017</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/127/953/large/mike-medicine-horse-cpt-necalli-hiresinks-ip06.jpg?1480602957</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter</game_name>
+    <character_name>Necalli Capcom Cup Stage 2</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2017</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/928/large/mike-medicine-horse-cpt-necalli-finalpencils.jpg?1480602753</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter</game_name>
+    <character_name>Necalli Capcom Cup Stage 3</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2017</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/127/929/large/mike-medicine-horse-cpt-2016-sketch-opt02.jpg?1480602763</image_url>
+  </game>
+
+  <game>
+    <game_name>CEO Shirt</game_name>
+    <character_name>CEO Various</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/128/032/large/mike-medicine-horse-mmh-ceo-shirt-final.jpg?1480603572</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter shirt</game_name>
+    <character_name>Akuma</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/127/999/large/mike-medicine-horse-oni-akuma.jpg?1480603365</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter shirt</game_name>
+    <character_name>Akuma stage 1</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/982/large/mike-medicine-horse-akuma-oni-rnd2.jpg?1480603211</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter shirt</game_name>
+    <character_name>Akuma stage 2</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/984/large/mike-medicine-horse-onivsakuma-sketch-rnd3.jpg?1480603222</image_url>
+  </game>
+
+  <game>
+    <game_name>Street Fighter</game_name>
+    <character_name>Akuma test</character_name>
+    <commissioned_by>Capcom</commissioned_by>
+    <date>2016</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/127/985/large/mike-medicine-horse-woodblock-akuma-option01.jpg?1480603222</image_url>
+  </game>
+
+  <game>
+    <game_name>Combo Breaker</game_name>
+    <character_name>Various</character_name>
+    <commissioned_by>Rick Thiher</commissioned_by>
+    <date>2015</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/850/large/mike-medicine-horse-combobreaker-final.jpg?1480602244</image_url>
+  </game>
+
+  <game>
+    <game_name>Mortal Kombat</game_name>
+    <character_name>Goro</character_name>
+    <commissioned_by>Rick Thiher</commissioned_by>
+    <date>2015</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/854/large/mike-medicine-horse-goro-final.jpg?1480602273</image_url>
+  </game>
+
+  <game>
+    <game_name>Mortal Kombat</game_name>
+    <character_name>Scorpion</character_name>
+    <commissioned_by>Rick Thiher</commissioned_by>
+    <date>2015</date>
+    <image_url>https://cdna.artstation.com/p/assets/images/images/004/127/856/large/mike-medicine-horse-scorpion-spatter-final.jpg?1480602275</image_url>
+  </game>
+
+  <game>
+    <game_name>Metroid</game_name>
+    <character_name>Zero Suit Samus</character_name>
+    <commissioned_by>Games N Go</commissioned_by>
+    <date>2015</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/128/073/large/mike-medicine-horse-zss-final.jpg?1480604142</image_url>
+  </game>
+
+  <game>
+    <game_name>Mega Man</game_name>
+    <character_name>Mega Man</character_name>
+    <commissioned_by>Games N Go</commissioned_by>
+    <date>2015</date>
+    <image_url>https://cdnb.artstation.com/p/assets/images/images/004/128/089/large/mike-medicine-horse-mega-final.jpg?1480604294</image_url>
+  </game>

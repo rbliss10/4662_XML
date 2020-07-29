@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE AR VR [
+<!ELEMENT AR_VR (project_name, work_done, commissioned_by, date, image_url)>
+<!ELEMENT project_name (#PCDATA)>
+<!ELEMENT work_done (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]
+
+<AR VR>
+  <AR_VR>
+    <project_name>Inside the Heart</project_name>
+    <work_done>VR</work_done>
+    <commissioned_by>Hybrid Medical Animation</commissioned_by>
+    <date>2017</date>
+    <image_url>https://www.hybridmedicalanimation.com/work/interactive/360-degree-inside-a-beating-heart/</image_url>
+  </AR_VR>
+
+  <AR_VR>
+    <project_name>360 Pneumonia</project_name>
+    <work_done>VR</work_done>
+    <commissioned_by>Hybrid Medical animation</commissioned_by>
+    <date>2017</date>
+    <image_url>https://www.hybridmedicalanimation.com/work/virtual-reality/360-vr-illustration-pneumonia/</image_url>
+  </AR_VR>
+

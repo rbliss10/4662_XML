@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE music [
+<!ELEMENT music (band_name, work_done, commissioned_by, date, image_url)>
+<!ELEMENT band_name (#PCDATA)>
+<!ELEMENT work_done (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]
+
+<music>
+  <music>
+    <band_name>The Stunt</band_name>
+    <work_done>Logo</work_done>
+    <commissioned_by>The Stunt</commissioned_by>
+    <date>2018</date>
+    <image_url>https://scontent.ffcm1-2.fna.fbcdn.net/v/t1.0-9/43879048_699305673786752_4605362611091931136_n.jpg?_nc_cat=106&_nc_ht=scontent.ffcm1-2.fna&oh=5e2eef61cbe28db13b207db87a6494a6&oe=5C549B96</image_url>
+  </music>
+
+  <music>
+    <band_name>Old Spaghetti Western Factory</band_name>
+    <work_done>Logo</work_done>
+    <commissioned_by>Marty Lestock</commissioned_by>
+    <date>2018</date>
+    <image_url>https://scontent.ffcm1-2.fna.fbcdn.net/v/t1.0-9/22555199_1534028636680149_377459213536498009_n.jpg?_nc_cat=101&_nc_ht=scontent.ffcm1-2.fna&oh=e25b388f020937614a1c41ef104c208a&oe=5C437890</image_url>
+  </music>

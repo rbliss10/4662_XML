@@ -1,0 +1,7 @@
+<!DOCTYPE comics [
+<!ELEMENT comic (character_name, commissioned_by, date, image_url)>
+<!ELEMENT character_name (#PCDATA)>
+<!ELEMENT commissioned_by (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT image_url (#PCDATA)>
+]
